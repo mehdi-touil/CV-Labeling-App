@@ -31,15 +31,15 @@ pip install -r requirements.txt
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/yourusername/CV-Labeling-App.git
+   git clone https://github.com/yourusername/CV-Labeling-App.git```
 
 Change into the project directory:
 
 ```bash
-cd CV-Labeling-App
+cd CV-Labeling-App```
 
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run app.py```
 
