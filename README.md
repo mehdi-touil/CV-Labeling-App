@@ -24,7 +24,7 @@ Before running the CV Labeling App, ensure you have the following dependencies i
 You can install Python dependencies using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Getting Started
 
